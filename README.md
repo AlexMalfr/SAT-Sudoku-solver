@@ -19,7 +19,7 @@ Run `main.py` to enter any sudoku puzzle and solve it
 
 ## Credits
 Co-developed by:
-* [Alexandre Malfreyt](https://github.com/AlexZeGamer)
+* [Alexandre Malfreyt](https://github.com/AlexMalfr)
 * [Esteban Bruneau](https://github.com/Esteboss)
 
 ## TODO
